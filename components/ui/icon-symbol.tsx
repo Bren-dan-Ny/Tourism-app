@@ -22,6 +22,7 @@ const MAPPING = {
   heart: "favorite-border",
   "heart.fill": "favorite",
   "person.fill": "person",
+  magnifyingglass: "search",
 } as IconMapping;
 
 /**
